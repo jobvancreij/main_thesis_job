@@ -46,13 +46,13 @@ algorithm to firestore. They are started in a similar way as general initializer
 Experiment 1 searches for the best window and forecast horizon. It can be initalized by: 
 
 ```console
-python expierments/experiment_1.py {coinpair} {deep learning model} 
+python experiments/experiment_1.py {coinpair} {deep learning model} 
 ```
 
 Experiment 2 runs the hyperopt algorithm. It is currently only build for Linux 
 computers/servers. It runs with  
 ```console
-sudo python3 expierments/experiment_2.py ETHBTC LSTM & sleep 480 && hyperopt-mongo-worker --mongo=34.66.233.70:5000/eval_db --poll-interval=0.1 
+sudo python3 experiments/experiment_2.py {coinpair} {deep learning model} & sleep 480 && hyperopt-mongo-worker --mongo=34.66.233.70:5000/eval_db --poll-interval=0.1 
 ```
 
 ### 3 Notebooks 
