@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="fdbe4b39-d2dd-4c73-84c5-c61cc4b5e97d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LSTM/BNBBTC/columns_for_prediction.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/predictors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/predictors.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM/lstm-crypto-price-prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LSTM/lstm-crypto-price-prediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+=======
+    <list default="true" id="95adaf81-61e8-46f4-b895-e6708adbe5a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/predictors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BNBBBTC_columns_to_aggregate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BNBBTC_settings_predictions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM/BNBBTC_columns_to_aggregate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM/BNBBTC_order_rows_prediction.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM/BNBBTC_prediction_model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM/bnbbtc_dataset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM/lstm-crypto-price-prediction.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM/my_model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM/names.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM/order_rows_prediction.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM/settings_predictions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM/temp_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aggregating/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aggregating/data_aggregator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/check_last_update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream_aggregated_data.py" beforeDir="false" />
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/LSTM/BNBBTC_columns_to_aggregate.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="96" selection-start-column="96" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aggregating/data_aggregator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/install_dependencies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/LSTM/BNBBTC/dataset_clean_normalized.csv">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="323">
+              <caret line="19" column="81" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aggregating/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LSTM/BNBBTC/columns_for_prediction.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LSTM/lstm-crypto-price-prediction.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+=======
+        <entry file="file://$PROJECT_DIR$/check_missing_socialmedia.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+        <entry file="file://$PROJECT_DIR$/keys.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/BNBBBTC_columns_to_aggregate.json" />
+        <option value="$PROJECT_DIR$/BNBBTC_columns_to_aggregate.json" />
+        <option value="$PROJECT_DIR$/aggregating/data_aggregator.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/stream_aggregated_data.py" />
+        <option value="$PROJECT_DIR$/LSTM/temp_model.py" />
+        <option value="$PROJECT_DIR$/LSTM/settings_predictions.json" />
+        <option value="$PROJECT_DIR$/keys.json" />
+        <option value="$PROJECT_DIR$/check_last_update.py" />
+        <option value="$PROJECT_DIR$/LSTM/BNBBTC_columns_to_aggregate.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/aggregating/__init__.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+=======
+        <option value="$PROJECT_DIR$/install_dependencies.py" />
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
+    <option name="x" value="-3790" />
+=======
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="thesis_lex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_lex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="predictors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="predictors" type="462c0819:PsiDirectoryNode" />
+              <item name="LSTM" type="462c0819:PsiDirectoryNode" />
+              <item name="BNBBTC" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LSTM" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+<<<<<<< HEAD
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jobva\OneDrive\Bureaublad\pycharm_projects\predictors\LSTM" />
+      <recent name="C:\Users\jobva\OneDrive\Bureaublad\pycharm_projects\predictors\aggregating" />
+      <recent name="C:\Users\jobva\OneDrive\Bureaublad\pycharm_projects\predictors" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jobva\OneDrive\Bureaublad\pycharm_projects\predictors\LSTM\BNBBTC" />
+      <recent name="C:\Users\jobva\OneDrive\Bureaublad\pycharm_projects\predictors\LSTM" />
+      <recent name="C:\Users\jobva\OneDrive\Bureaublad\pycharm_projects\predictors" />
+      <recent name="C:\Users\jobva\OneDrive\Bureaublad\pycharm_projects\predictors\aggregating" />
+    </key>
+  </component>
+=======
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.__init__">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="predictors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aggregating" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aggregating/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_aggregator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="predictors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aggregating" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aggregating/data_aggregator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.data_aggregator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95adaf81-61e8-46f4-b895-e6708adbe5a6" name="Default Changelist" comment="" />
+      <created>1584458656309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+<<<<<<< HEAD
+      <updated>1580160440148</updated>
+      <workItem from="1580160444195" duration="3935000" />
+      <workItem from="1580196255130" duration="3309000" />
+      <workItem from="1580309850858" duration="7155000" />
+      <workItem from="1580397341922" duration="2816000" />
+      <workItem from="1580465088423" duration="6818000" />
+      <workItem from="1580757134789" duration="3166000" />
+      <workItem from="1581003638115" duration="2063000" />
+      <workItem from="1582365627411" duration="91000" />
+      <workItem from="1584352272638" duration="989000" />
+      <workItem from="1584460594736" duration="10000" />
+      <workItem from="1584820169420" duration="648000" />
+      <workItem from="1585840297552" duration="778000" />
+      <workItem from="1586526938427" duration="5236000" />
+      <workItem from="1586532246546" duration="2447000" />
+      <workItem from="1586534729647" duration="70000" />
+      <workItem from="1586534943599" duration="1198000" />
+      <workItem from="1586536406651" duration="11000" />
+      <workItem from="1586536689614" duration="103000" />
+      <workItem from="1586536836535" duration="198000" />
+      <workItem from="1586537079307" duration="324000" />
+      <workItem from="1586537605585" duration="14000" />
+      <workItem from="1586537902810" duration="1128000" />
+=======
+      <updated>1584458656309</updated>
+      <workItem from="1584458660149" duration="98000" />
+      <workItem from="1584458760263" duration="1360000" />
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="42507000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3848" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+=======
+    <option name="totallyTimeSpent" value="1458000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+<<<<<<< HEAD
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.37919825" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/predictors$data_aggregator.coverage" NAME="data_aggregator Coverage Results" MODIFIED="1586530613918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aggregating" />
+    <SUITE FILE_PATH="coverage/predictors$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1586530663776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aggregating" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/install_dependencies.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LSTM/temp_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LSTM/bnbbtc_dataset.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="349" selection-start-column="349" selection-end-column="349" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LSTM/BNBBTC_order_rows_prediction.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream_aggregated_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+=======
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/LSTM/names.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LSTM/settings_predictions.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check_last_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BNBBTC_settings_predictions.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LSTM/BNBBTC_columns_to_aggregate.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="96" selection-start-column="96" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aggregating/data_aggregator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/check_missing_socialmedia.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LSTM/BNBBTC/dataset_clean_normalized.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="323">
+          <caret line="19" column="81" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aggregating/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LSTM/BNBBTC/columns_for_prediction.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LSTM/lstm-crypto-price-prediction.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keys.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/tensorflow/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> f049e800af9a616bbf06ae37e3e6a7de8237b9dc
+  </component>
+</project>

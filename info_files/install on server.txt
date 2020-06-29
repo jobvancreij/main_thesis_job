@@ -1,0 +1,26 @@
+https://askubuntu.com/questions/682869/how-do-i-install-a-different-python-version-using-apt-get
+sudo apt-get install build-essential checkinstall
+sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+cd /usr/src
+
+sudo wget https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tar.xz
+sudo tar xf Python-3.6.0.tar.xz
+sudo su
+cd ./Python-3.6.0
+./configure 
+make
+make altinstall
+exit
+Go bakc to home
+
+#sudo update-alternatives --install /usr/bin/python python /usr/local/bin/python3.6 10
+sudo git clone https://github.com/jobvancreij/predictors.git
+sudo python3.6 -m pip install --upgrade pip
+install everything
+sudo apt-get install screen
+screen -r
+
+sudo su
+python3.6 ex...
+ctr ad
+watch -n 0.5 nvidia-smi
