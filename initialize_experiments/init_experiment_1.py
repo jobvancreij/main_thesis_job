@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 from LJT_helper_functions.helpers import send_message_telegram
 from LJT_helper_functions.dataset_prep import percentage_fee
 from itertools import product
-from hashlib import sha256
 
 prediction = [1] #to to predict ahead
 windows_extend = [1,2,4, 6, 11, 35, 50, 60, 70, 100, 150, 200]
@@ -78,8 +77,7 @@ def prepare_experiments(windows,prediction_ahead):
 
 
 if __name__ == "__main__":
-    if sha256(input('password is jaikwil, Enter pw if you want to continue: ').encode(
-            'utf-8')).hexdigest() == "964de380401cf82374b24a8a4dabc0a564b852e7a0d99e573b92ec0554886d96":
+    if input("Type Yes if you want to continue: ").lower() == 'yes':
         if len(sys.argv) - 1 !=2:
             raise TypeError("Please give arguments. Arg 1 = coin, Arg2 = algorithm")
         coin = sys.argv[1].upper()

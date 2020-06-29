@@ -2,7 +2,6 @@ import sys
 from LJT_database.firestore_codes import  add_update, retrieve_updates
 from LJT_database.make_query import extract_dataset_predictions
 from LJT_helper_functions.helpers import send_message_telegram
-from hashlib import sha256
 
 values_for_hyperopt = {
                     'optimizer': ['rmsprop', 'adam'],
@@ -41,8 +40,7 @@ def remove_columns(df):
     return df_cleaned
 
 if __name__ == "__main__":
-    if sha256(input('password is jaikwil, Enter pw if you want to continue: ').encode(
-            'utf-8')).hexdigest() == "964de380401cf82374b24a8a4dabc0a564b852e7a0d99e573b92ec0554886d96":
+    if input("Type Yes if you want to continue: ").lower() == 'yes':
         if len(sys.argv) - 1 !=2:
             raise TypeError("Please give arguments. Arg 1 = coin, Arg2 = algorithm")
         coin = sys.argv[1].upper()

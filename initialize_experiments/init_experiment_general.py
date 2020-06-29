@@ -78,8 +78,7 @@ def init_settings(coin,algorithm):
 
 
 if __name__ == "__main__":
-    if sha256(input('password is jaikwil, Enter pw if you want to continue: ').encode(
-            'utf-8')).hexdigest() == "964de380401cf82374b24a8a4dabc0a564b852e7a0d99e573b92ec0554886d96":
+    if input("Type Yes if you want to continue: ").lower() == 'yes':
         if len(sys.argv) - 1 !=2:
             raise TypeError("Please give arguments. Arg 1 = coin, Arg2 = algorithm")
         coin = sys.argv[1].upper()
